@@ -37,3 +37,7 @@
     padding-bottom: 15px;
     margin-left: 45px;
 }
+.card img {
+    width: 80%;
+    margin: auto;
+}
