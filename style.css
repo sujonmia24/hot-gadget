@@ -1,0 +1,16 @@
+.buy-now-button{
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.bg-dot {
+    background: url("images/bg-2.png") no-repeat bottom left;
+}
+.bg-img {
+    background: url("images/bg-1.png") no-repeat left center;
+}
+.paragraph{
+    width: 70%;
+}
