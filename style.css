@@ -35,21 +35,28 @@
 }
 .card-footer h5 {
     padding-bottom: 15px;
-    margin-left: 45px;
+    text-align: center;
 }
 .card img {
     width: 80%;
     margin: auto;
 }
-.categories {
+.orange-underline{
+    background-image: linear-gradient(90deg, #FF9C35, #FFD019);
+    height: 7px;
+    width: 100px;
+    border-radius: 10px;
     margin: auto;
+    margin-bottom: 50px;
 }
-.cat-item{
-    margin-top: 60px;
+.category-card{
+    transform: scale(0.8);
+    box-shadow: 1px 1px 20px lightgray;
+    border-radius: 10px;
+    padding: 70px 0px;
+    position: relative;
 }
-.cat-item img {
-    padding: 20px;
-    margin: 30px;
-    box-shadow: 5px 5px 10px gray;
-    border-radius: 5px;
+.category-card h5{
+    text-align: center;
+    margin-top: 20px;
 }
